@@ -1,0 +1,3 @@
+export const FETCH_GROUPS = 'FETCH_GROUPS';
+export const CREATE_USER = 'CREATE_USER';
+export const SEARCH_RESULTS = 'SEARCH_RESULTS'
